@@ -3,7 +3,7 @@
 👨‍💻 Software Engineer  
 👩🏻‍🎓 Studied Applied Mathematics and Informatics at Yerevan State University  
 ✍️ Visit my [channel](https://t.me/primus_blog) in Telegram  
-🌐 Also checkout my [website](https://tigranhayrapetyan.dev)
+🌐 Check my [website](https://tigranhayrapetyan.dev)
   
   
 # 💻 Tech Stack
